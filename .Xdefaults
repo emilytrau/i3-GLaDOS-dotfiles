@@ -1,0 +1,4 @@
+xterm*scrollBar: false
+xterm*foreground: orange
+xterm*background: black
+xterm*faceName: Liberation Mono:size=10:style=Bold
